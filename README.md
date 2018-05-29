@@ -6,6 +6,8 @@ This site will serve as my project site, collecting my code and links to live pr
 More information, including my resume, can be found on LinkedIn at [ktlnbstn](https://www.linkedin.com/in/ktlnbstn/).
 
 __>Projects<__
+
+
 **PuppyLove**
 - Overview
 - Screenshots
