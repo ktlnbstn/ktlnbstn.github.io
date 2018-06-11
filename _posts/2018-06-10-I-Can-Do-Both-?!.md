@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I can do both?!"
-date: 2018-05-30
+date: 2018-06-10
 ---
 
 Personal projects and OOP languages, oh my!
@@ -30,3 +30,6 @@ I can.</br>
 
 <em>Data Structures and Algorithims</em></br>
 Only for the interview. Then everyone forgets it, because when you're a developer, you have the time to research these things if needed. Siiiiigh. So the memorization and practice begins.</br>
+
+Balance, be present, and check off your goals.
+You are making progress.
